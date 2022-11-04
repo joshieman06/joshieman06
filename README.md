@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @joshieman06
-- 👀 I’m interested in ... gaming
-- 🌱 I’m currently learning ... gaming
-- 💞️ I’m looking to collaborate on ... gaming
-- 📫 How to reach me ... gaming
+# Welcome
+I like coding
+##Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+
+
+###It's not a capital j
 
 <!---
 joshieman06/joshieman06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
