@@ -2,9 +2,9 @@
 I like coding. I have a discord bot and I am working on several projects
 
 
-[![Joshie's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshieman06)](https://github.com/anuraghazra/github-readme-stats)
+[![Joshie's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshieman06)](joshie.app)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshieman06)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshieman06?layout=compact)](joshie.app)
 
 
 <!---
