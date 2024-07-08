@@ -1,5 +1,5 @@
 # Welcome
-I like coding. I have a discord bot and I am working on several projects
+Minecraft mods + much more
 
 
 [![Joshie's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshieman06&theme=dark)](https://joshie.app)
